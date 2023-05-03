@@ -19,6 +19,9 @@ module.exports = {
         }
       }
     },
+    backgroundImage: {
+      'hero': "url('/public/images/pawel-czerwinski-5oVwEOmNt9Y-unsplash.jpg')",
+    },
   },
   plugins: [],
 }

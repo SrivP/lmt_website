@@ -9,22 +9,22 @@ const Navbar = () => {
       </div>
       <ul className="flex items-center">
         <li className="ml-6">
-          <button className="bg-transparent hover:bg-slate-50 hover:bg-opacity-5 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out">
+          <button className="bg-transparent hover:bg-slate-50 hover:bg-opacity-10 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out">
             <Link href="/" className="hover:text-slate-100">
               Home
             </Link>
           </button>
         </li>
         <li className="ml-6">
-          <button className="bg-transparent hover:bg-slate-50 hover:bg-opacity-5 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out">
+          <button className="bg-transparent hover:bg-slate-50 hover:bg-opacity-10 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out">
             <Link href="/about" className="hover:text-slate-100">
               About
             </Link>
           </button>
         </li>
         <li className="ml-6">
-          <button className="bg-transparent hover:bg-slate-50 hover:bg-opacity-5 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out">
-            <Link href="/contact" className="text-slate-100">
+          <button className="bg-transparent hover:bg-slate-50 hover:bg-opacity-10 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out">
+            <Link href="/contact" className="hover:text-slate-100">
               Contact
             </Link>
           </button>
